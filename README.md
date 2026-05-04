@@ -1,5 +1,5 @@
 # 📊 Super Store Dashboard with 15 Day Forecast 
-  
+   
 An interactive Power BI dashboard analyzing Super Store sales data with a 15-day sales forecast using time-series analysis.
 
 ---
